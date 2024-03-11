@@ -39,7 +39,7 @@ function App() {
             <li className="flex items-center space-x-2">
               <img
                 className="w-6 h-6 mr-[8px]"
-                src="/Done_ring_round_fill.svg"
+                src="Done_ring_round_fill.svg"
                 alt="Checklist icon"
               />
               Checklist to Review an Academic Paper
@@ -47,7 +47,7 @@ function App() {
             <li className="flex items-center space-x-2">
               <img
                 className="w-6 h-6 mr-[8px]"
-                src="/Done_ring_round_fill.svg"
+                src="Done_ring_round_fill.svg"
                 alt="Peer icon"
               />
               Peer Review Checklist
@@ -55,7 +55,7 @@ function App() {
             <li className="flex items-center space-x-2">
               <img
                 className="w-6 h-6 mr-[8px]"
-                src="/Done_ring_round_fill.svg"
+                src="Done_ring_round_fill.svg"
                 alt="Checklist icon"
               />
               Checklist for Editors, Reviewers, and Authors of SPIE Journals
